@@ -1,0 +1,3 @@
+Pada hari Selasa, 10 September 2025 telah dilaksanakan praktikum kontrol cerdas yang bertempat di Laboratorium Sistem Kendali, Gedung D, Kampus II, Politeknik Negeri Madiun. Berdasarkan praktikum yang telah dilakukan dapat dianalisis seperti berikut.
+
+Kode ini mengimplementasikan sistem deteksi warna berbasis machine learning dengan K-Nearest Neighbors (KNN) untuk mengklasifikasikan warna berdasarkan nilai RGB dari dataset dalam file CSV.  
